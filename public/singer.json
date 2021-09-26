@@ -1,0 +1,112 @@
+[
+    {
+        "id": 1,
+        "name": "Selena Gomez",
+        "age": 29,
+        "gender": "Female",
+        "instruments": "Vocals",
+        "country": "USA",
+        "bankBalance": "1510",
+        "picture": "https://api.time.com/wp-content/uploads/2020/09/time-100-Selena-Gomez.jpg?w=824&quality=70"
+    },
+    {
+        "id": 2,
+        "name": "Ariana Grande",
+        "age": 28,
+        "gender": "Female",
+        "instruments": "Vocals",
+        "country": "USA",
+        "bankBalance": "1145",
+        "picture": "https://middleeast-grlk5lagedl.stackpathdns.com/production/middleeast/images/1549442654887145-ariana-grande-bstg-2018-billboard-u-1548.jpg?w=1920&h=800&fit=clip&crop=faces&auto=%5B%22format%22%2C%20%22compress%22%5D&cs=srgb"
+    },
+    {
+        "id": 3,
+        "name": "Taylor Alison",
+        "age": 31,
+        "gender": "Female",
+        "instruments": "Vocals & Piano",
+        "country": "USA",
+        "bankBalance": "4210",
+        "picture": "https://i.scdn.co/image/ab6761610000e5eb26dbdbdacda5c30dc95e0c2c"
+    },
+    {
+        "id": 4,
+        "name": "Katy Perry",
+        "age": 36,
+        "gender": "Female",
+        "instruments": "Vocals",
+        "country": "USA",
+        "bankBalance": "4521",
+        "picture": "https://cdns-images.dzcdn.net/images/artist/f8a978f52348bf28c8cc5be1b8ad496b/264x264.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Ed Sheeran",
+        "age": 30,
+        "gender": "Male",
+        "instruments": "Vocals & Guitar",
+        "country": "UK",
+        "bankBalance": "9914",
+        "picture": "https://thumbor.forbes.com/thumbor/fit-in/416x416/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ed564163dbc9800060b2829%2F0x0.jpg%3Fbackground%3D000000%26cropX1%3D0%26cropX2%3D1080%26cropY1%3D0%26cropY2%3D1080"
+    },
+    {
+        "id": 6,
+        "name": "Justin Bieber",
+        "age": 27,
+        "gender": "Male",
+        "instruments": "Vocals & keybored",
+        "country": "USA",
+        "bankBalance": "7414",
+        "picture": "https://www.allthingslive.com/media/1545/justin-bieber-2016-press-pic-supplied-1440x690.jpg?anchor=center&mode=crop&width=1200&height=630&rnd=132034496070000000&quality=70"
+    },
+    {
+        "id": 7,
+        "name": "Shawn Mendes",
+        "age": 23,
+        "gender": "Male",
+        "instruments": "Vocals & Guitar",
+        "country": "Canada",
+        "bankBalance": "4521",
+        "picture": "https://www.thewikifeed.com/wp-content/uploads/2020/12/shawn-mendes-1-1.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Charlie Puth",
+        "age": 29,
+        "gender": "Male",
+        "instruments": "Vocals & composer",
+        "country": "USA",
+        "bankBalance": "3012",
+        "picture": "https://images.indianexpress.com/2017/04/charlie-puth-759.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Dua Lipa",
+        "age": 26,
+        "gender": "Female",
+        "instruments": "Vocals",
+        "country": "UK",
+        "bankBalance": "4521",
+        "picture": "https://lastfm.freetls.fastly.net/i/u/770x0/184c06e50a27f759a06c1d317ffaf661.jpg"
+    },
+    {
+        "id": 10,
+        "name": "Harry Styles",
+        "age": 27,
+        "gender": "Male",
+        "instruments": "Vocals",
+        "country": "UK",
+        "bankBalance": "6614",
+        "picture": "https://images.indianexpress.com/2021/02/Harry-Styles-crop.jpg"
+    },
+    {
+        "id": 11,
+        "name": "Zayn Malik",
+        "age": 28,
+        "gender": "Female",
+        "instruments": "Vocals",
+        "country": "USA",
+        "bankBalance": "5514",
+        "picture": "https://api.time.com/wp-content/uploads/2015/03/zayn-malik.jpg?w=824&quality=70"
+    }
+]
