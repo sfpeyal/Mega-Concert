@@ -5,7 +5,7 @@ import './Cart'
 
 
 const Cart = (props) => {
-    console.log(props.cart);
+
     const { length } = props.cart
     const element = <FontAwesomeIcon icon={faUserPlus} />
     const element2 = <FontAwesomeIcon icon={faDollarSign} />
